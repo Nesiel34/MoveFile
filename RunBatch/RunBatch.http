@@ -1,0 +1,6 @@
+@RunBatch_HostAddress = http://localhost:5296
+
+GET {{RunBatch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,1 @@
+echo newFile > text.txt
